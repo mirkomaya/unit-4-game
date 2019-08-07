@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    /* margin: 20px; */
+}
+
+#mainTitle {
+    background-color: #cb6f34;
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    /* padding-bottom: 20px; */
+}
+
+#mainInst {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    color: #47943c;
+    background-color: #fce4ce;
+    /* margin-left: 20px; */
+}
