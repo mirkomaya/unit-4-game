@@ -32,6 +32,17 @@
     color: #228f92;
 }
 
+#gem1 {
+    background-color: lightblue;
+}
+
+#total-text {
+    background-color: green;
+}
+
+#score-text {
+    background-color: lightblue;
+}
 /* img {
     width: 200px;
     height: 200px;
