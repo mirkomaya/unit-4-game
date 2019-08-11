@@ -12,7 +12,6 @@ var gem3 = Math.floor(Math.random() * 12) + 1;
 var gem4 = Math.floor(Math.random() * 12) + 1;
 
 
-
 console.log(randomNumber);
 console.log(gem1);
 console.log(gem2);
@@ -24,6 +23,7 @@ $("#randNum").text(randomNumber);
 $("#winsText").text("Wins: " + wins);
 $("#lossText").text("Losses: " + losses);
 $("#scoreText").text(totalScore);
+$("#gem1").data(" ", gem1);
 
 
 function reset() {
