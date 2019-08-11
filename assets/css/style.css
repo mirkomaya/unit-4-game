@@ -33,14 +33,14 @@
 }
 
 #gem1 {
-    background-color: lightblue;
+    /* background-color: lightblue; */
 }
 
-#total-text {
-    background-color: green;
+#totalText {
+    background-color: #53c987;
 }
 
-#score-text {
+#scoreText {
     background-color: lightblue;
 }
 /* img {
